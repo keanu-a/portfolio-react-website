@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 
+// With installations, I did
+// ' npm install framer-motion react-achor-link-smooth-scroll '
+
 function App() {
   return (
     <div className="App">
